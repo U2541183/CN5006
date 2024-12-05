@@ -1,0 +1,7 @@
+1. Write a reflection for this week's Lab exercises to include in your portfolio. 
+Answer: In this week’s lab, I set up my environment for writing and executing JavaScript using Visual Studio Code and Node.js. 
+Ensuring both were installed properly was essential for running JavaScript programs directly on my computer. 
+I created my first JavaScript file, index.js, in VS Code and learned how to navigate directories using the terminal with commands like pwd and cd, gaining valuable command-line skills. 
+Running my code boosted my confidence, and I expanded by writing programs to perform basic addition and check if a number is positive, negative, or zero. 
+These exercises introduced me to key JavaScript concepts like variables, arithmetic, and conditionals. 
+Overall, this session helped me to build a strong foundation in setting up my development environment, writing JavaScript code, and using the terminal, preparing me for more advanced programming tasks. 
